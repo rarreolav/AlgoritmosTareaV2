@@ -1,2 +1,2 @@
-# Recorrido-dijkstra
-Aplicación realizada en C# con el fin de encontrar el recorrido mas corto siguiendo como base el algoritmo Dijkstra
+# Proyecto de Algoritmos
+Solución con las aplicaciones para resolver el algoritmo Prim, Dijkstra y Huffman
