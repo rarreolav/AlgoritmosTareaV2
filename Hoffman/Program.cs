@@ -10,7 +10,7 @@ namespace Hoffman
     {
         static void Main(string[] args)
         {
-            string input = "Rafael";
+            string input = "TERNARY TREE";
             HuffmanTree huffmanTree = new HuffmanTree();
 
             // Build the Huffman tree
@@ -19,7 +19,7 @@ namespace Hoffman
             // Encode
             BitArray encoded = huffmanTree.Encode(input);
 
-            Console.Write("Encoded: ");
+            Console.Write("Codificado: ");
             foreach (bool bit in encoded)
             {
                 Console.Write((bit ? 1 : 0) + "");
@@ -29,7 +29,7 @@ namespace Hoffman
             // Decode
             string decoded = huffmanTree.Decode(encoded);
 
-            Console.WriteLine("Decoded: " + decoded);
+            Console.WriteLine("Decodificado: " + decoded);
 
             Console.ReadLine();
         }
