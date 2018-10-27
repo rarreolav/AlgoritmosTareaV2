@@ -10,7 +10,7 @@ namespace Hoffman
     {
         static void Main(string[] args)
         {
-            string input = "foo bar";
+            string input = "Rafael";
             HuffmanTree huffmanTree = new HuffmanTree();
 
             // Build the Huffman tree
