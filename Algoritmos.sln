@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecorridoDijkstra", "RecorridoDijkstra\RecorridoDijkstra.csproj", "{C842F354-38F8-4168-8AD2-12B152579FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prim", "Prim\Prim.csproj", "{4CF8D255-0878-4DE9-9E3A-440D56017D37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huffman", "Hoffman\Huffman.csproj", "{C90D8A0E-E5FF-4BDF-A52F-30C5F755303A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C842F354-38F8-4168-8AD2-12B152579FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C842F354-38F8-4168-8AD2-12B152579FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C842F354-38F8-4168-8AD2-12B152579FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C842F354-38F8-4168-8AD2-12B152579FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF8D255-0878-4DE9-9E3A-440D56017D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF8D255-0878-4DE9-9E3A-440D56017D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF8D255-0878-4DE9-9E3A-440D56017D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF8D255-0878-4DE9-9E3A-440D56017D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C90D8A0E-E5FF-4BDF-A52F-30C5F755303A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90D8A0E-E5FF-4BDF-A52F-30C5F755303A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90D8A0E-E5FF-4BDF-A52F-30C5F755303A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90D8A0E-E5FF-4BDF-A52F-30C5F755303A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3046A3BD-C922-48D7-8267-DF08DA194CFB}
+	EndGlobalSection
+EndGlobal
